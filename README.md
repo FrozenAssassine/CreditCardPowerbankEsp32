@@ -7,6 +7,8 @@ The matrix is rgb and can be programmed using the esp32.
 
 <img src="https://github.com/user-attachments/assets/58d562f0-9261-4d28-b40d-dca747a6cc83" width=400/>
 
+![powerbankwallet](https://github.com/user-attachments/assets/ad155272-963f-4f06-9be2-75e1a697e7eb)
+
 
 ### Features
 - 3000mAh battery
